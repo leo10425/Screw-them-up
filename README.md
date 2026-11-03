@@ -1,4 +1,4 @@
-# 今天也在小吃街当黑心老板
+# Screw them up
 
 Low-poly 模拟经营游戏 · Windows 封装版
 
